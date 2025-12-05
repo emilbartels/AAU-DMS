@@ -1,0 +1,6 @@
+module Pods_MyBleApp {
+  umbrella header "Pods-MyBleApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,19 @@
+current directory: /Users/jonasvindahl/Documents/MyBleApp/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/jonasvindahl/Documents/MyBleApp/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20251113-16445-7wh92f sitelibdir\=./.gem.20251113-16445-7wh92f clean
+
+current directory: /Users/jonasvindahl/Documents/MyBleApp/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20251113-16445-7wh92f sitelibdir\=./.gem.20251113-16445-7wh92f
+compiling nkf.c
+linking shared-object nkf.bundle
+ld: warning: search path '/opt/homebrew/Cellar/openssl@3/3.4.0/lib' not found
+
+current directory: /Users/jonasvindahl/Documents/MyBleApp/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20251113-16445-7wh92f sitelibdir\=./.gem.20251113-16445-7wh92f install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20251113-16445-7wh92f
+
+current directory: /Users/jonasvindahl/Documents/MyBleApp/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20251113-16445-7wh92f sitelibdir\=./.gem.20251113-16445-7wh92f clean
